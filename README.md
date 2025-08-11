@@ -1,4 +1,4 @@
-# project-genai-post-generator
+# LinkedIn-Post-Generator
 This tool will analyze posts of a LinkedIn influencer and help them create the new posts based on the writing style in their old posts  
 
 <img width="1150" height="572" alt="{18FAEA57-B9D2-4C0C-BD04-A9BD38D85353}" src="https://github.com/user-attachments/assets/1948385a-5ce0-4308-8ba5-e281ca697564" />
@@ -23,6 +23,7 @@ Let's say Mohan is a LinkedIn influencer and he needs help in writing his future
    ```commandline
    streamlit run main.py
    ```
+
 
 
 
